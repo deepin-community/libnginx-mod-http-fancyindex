@@ -1,3 +1,10 @@
+libnginx-mod-http-fancyindex (1:0.5.2-7) unstable; urgency=medium
+
+  * d/gbp.conf: dist = DEP14, debian-branch = debian/latest
+  * d/watch: rewrite to version 5, use Github uscan-template
+
+ -- Jan Mojžíš <janmojzis@debian.org>  Thu, 11 Sep 2025 15:48:34 +0200
+
 libnginx-mod-http-fancyindex (1:0.5.2-6) unstable; urgency=medium
 
   * d/control: update my email to janmojzis@debian.org
